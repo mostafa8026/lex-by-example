@@ -1,0 +1,4 @@
+test*
+*.out
+lex.yy.c
+*.swp

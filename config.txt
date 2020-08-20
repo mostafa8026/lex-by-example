@@ -1,0 +1,4 @@
+db_type: mysql
+db_table_prefix: test_
+db_port: f8080
+db_name: mydb
